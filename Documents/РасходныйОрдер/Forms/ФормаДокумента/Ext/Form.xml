@@ -1425,7 +1425,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>2:6645ad61-3875-44f3-8fa3-6ef8c7101088</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarCreateBasedOn</CommandGroup>
 				<Index>5</Index>

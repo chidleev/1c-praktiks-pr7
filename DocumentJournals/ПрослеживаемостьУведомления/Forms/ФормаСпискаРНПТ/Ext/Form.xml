@@ -143,7 +143,7 @@
 				</ButtonGroup>
 				<Button name="ФормаПоказатьКонтекстныеНовости" id="50">
 					<Type>CommandBarButton</Type>
-					<CommandName>2:409b9a53-7f7e-4178-86c1-33176c7c7a7a</CommandName>
+					<CommandName>0</CommandName>
 					<LocationInCommandBar>InAdditionalSubmenu</LocationInCommandBar>
 					<ExtendedTooltip name="ФормаПоказатьКонтекстныеНовостиРасширеннаяПодсказка" id="51"/>
 				</Button>

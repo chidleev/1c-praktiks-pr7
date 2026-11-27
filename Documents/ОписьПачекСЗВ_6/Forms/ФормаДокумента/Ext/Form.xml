@@ -478,7 +478,7 @@
 		</NavigationPanel>
 		<CommandBar>
 			<Item>
-				<Command>0:beaaa5ef-f76c-4dc8-9dd0-d6b920d3deec</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
@@ -504,7 +504,7 @@
 				<CommandGroup>CommandGroup.Печать</CommandGroup>
 			</Item>
 			<Item>
-				<Command>0:2baf6d7a-12ed-4f22-ad96-92bb31b747ff</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 				<Visible>

@@ -1778,13 +1778,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Catalog.СтруктурныеЕдиницы.EmptyRef</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>СтруктурнаяЕдиница</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:f07c1b86-bb22-4552-b466-2dc720b3b748</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипСтруктурнойЕдиницы">
 							<app:value xsi:type="v8:FixedArray">

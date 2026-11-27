@@ -106,7 +106,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">FunctionalOption.ИспользоватьРегулярныеПлатежи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ФункциональнаяОпцияИспользоватьРегулярныеПлатежи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.РегулярныеПлатежиГрафик</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">d424959e-2529-4960-a40d-860c4fca0974</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

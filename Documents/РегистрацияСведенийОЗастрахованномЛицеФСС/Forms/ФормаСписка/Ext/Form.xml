@@ -396,18 +396,18 @@
 	<CommandInterface>
 		<CommandBar>
 			<Item>
-				<Command>0:a7f1384a-c18a-4b7f-9ddd-a2393ef2956f</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 			</Item>
 			<Item>
-				<Command>0:209a3fea-9dab-44f2-8a41-92172552e123</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<Index>1</Index>
 			</Item>
 			<Item>
-				<Command>0:a118a527-9426-457c-9a32-c923a8c1640c</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<Index>2</Index>

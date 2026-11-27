@@ -370,7 +370,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>0:dce5ba86-02cc-456e-9ddb-478b296667c2</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<Attribute>Объект.Ref</Attribute>
 				<DefaultVisible>false</DefaultVisible>

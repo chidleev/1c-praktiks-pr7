@@ -74,7 +74,6 @@
 				<xr:Value name="Role.ДобавлениеИзменениеФизическихЛиц">false</xr:Value>
 				<xr:Value name="Role.ДобавлениеИзменениеШаблоновДокументов">false</xr:Value>
 				<xr:Value name="Role.ДобавлениеИзменениеШаблоновСообщений">false</xr:Value>
-				<xr:Value name="db82191f-77bd-44da-8b33-86f01018e25a">false</xr:Value>
 				<xr:Value name="Role.ЗапросНовойСправкиСПАРКРиски">false</xr:Value>
 				<xr:Value name="Role.ЗапускВебКлиента">false</xr:Value>
 				<xr:Value name="Role.ЗапускВнешнегоСоединения">false</xr:Value>

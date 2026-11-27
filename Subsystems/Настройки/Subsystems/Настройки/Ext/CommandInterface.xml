@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
 	<CommandsVisibility>
-		<Command name="0:1fd9d4ba-b301-4f99-ac5d-56426b1b0948">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="DataProcessor.НастройкаПрограммы.Command.ЧатботДляЗаписи">
 			<Visibility>
 				<xr:Common>false</xr:Common>
@@ -25,9 +20,6 @@
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 		<Command name="CommonCommand.ВсеСправочники">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="0:1fd9d4ba-b301-4f99-ac5d-56426b1b0948">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 		<Command name="DataProcessor.НастройкаПрограммы.Command.ЧатботДляЗаписи">

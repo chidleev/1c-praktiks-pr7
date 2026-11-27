@@ -1052,21 +1052,6 @@
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks>
 						<xr:Link>
-							<xr:Name>Отбор.ВалютаДенежныхСредств</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:7cab78c9-f268-4b25-82b7-9e938fcaff8d</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>ВидОперации</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:da4d2c0e-3ce4-4d7b-be59-fc36d5f7523e</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:dc8e518a-5a62-4c92-870e-aec043e2218f</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
 							<xr:Name>Отбор.ПометкаУдаления</xr:Name>
 							<xr:DataPath xsi:type="xs:string">Document.ПоступлениеНаСчет.StandardAttribute.DeletionMark</xr:DataPath>
 							<xr:ValueChange>Clear</xr:ValueChange>
@@ -1886,13 +1871,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Корреспонденция</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:6d574719-c419-4afb-b90d-0a6be67ce87a</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипСтруктурнойЕдиницы">
 							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыСтруктурныхЕдиниц.EnumValue.Подразделение</app:value>
@@ -5460,18 +5439,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>Отбор.Договор</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:d7833832-0e7b-4662-9a53-c6c34b2fad31/0:b2ee2a43-9763-4ea3-9aec-64548c75e154</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-								<xr:Link>
-									<xr:Name>Отбор.Контрагент</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:44a1c68f-ae38-43da-bd1d-8a26b9f94387</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>

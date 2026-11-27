@@ -511,13 +511,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипСтруктурнойЕдиницы">
 							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыСтруктурныхЕдиниц.EnumValue.Подразделение</app:value>
@@ -743,13 +737,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>СчетЗатрат</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:0d6bd595-a1b0-4e5c-8c84-03b36ed20447/0:ff6a4098-4eef-41ae-8120-7394bc26fed0</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -1471,13 +1459,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>СчетЗатрат</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:0d6bd595-a1b0-4e5c-8c84-03b36ed20447/0:ff6a4098-4eef-41ae-8120-7394bc26fed0</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>

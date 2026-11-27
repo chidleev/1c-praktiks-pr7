@@ -101,20 +101,6 @@
 			</Visibility>
 		</Item>
 		<Item>
-			<Form>15401af9-51bd-4ea2-8270-eda4c17639c5</Form>
-			<Height>10</Height>
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Item>
-		<Item>
-			<Form>aededdf1-49f5-4911-a252-6a36ed99cab8</Form>
-			<Height>10</Height>
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Item>
-		<Item>
 			<Form>DataProcessor.БыстрыеДействия.Form.БыстрыеДействия</Form>
 			<Height>3</Height>
 			<Visibility>

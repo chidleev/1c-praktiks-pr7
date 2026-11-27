@@ -49,7 +49,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверАТОЛДрайверПлатежногоЯдраПэй_ru</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверINVERSUMЭквайринговыеТерминалы_ru</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидОплатыНаТерминале</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">a786340b-1ca9-48ee-8517-6bd389390bcc</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

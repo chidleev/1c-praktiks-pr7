@@ -240,7 +240,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>3:0c5d1c35-3a43-49e4-a89f-b2925d6d39e5</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
 				<Index>1</Index>

@@ -1014,12 +1014,12 @@
 																<ChildItems>
 																	<Button name="НоменклатураГруппыЦеновыеГруппыПереместитьВверх" id="356">
 																		<Type>CommandBarButton</Type>
-																		<CommandName>260:37740564-9e86-44a0-bea9-3f485a5a3f91</CommandName>
+																		<CommandName>0</CommandName>
 																		<ExtendedTooltip name="НоменклатураГруппыЦеновыеГруппыПереместитьВверхРасширеннаяПодсказка" id="357"/>
 																	</Button>
 																	<Button name="НоменклатураГруппыЦеновыеГруппыПереместитьВниз" id="358">
 																		<Type>CommandBarButton</Type>
-																		<CommandName>260:fa51b106-eae6-44c7-8054-76cbb3100603</CommandName>
+																		<CommandName>0</CommandName>
 																		<ExtendedTooltip name="НоменклатураГруппыЦеновыеГруппыПереместитьВнизРасширеннаяПодсказка" id="359"/>
 																	</Button>
 																</ChildItems>

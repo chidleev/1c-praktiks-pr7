@@ -708,7 +708,7 @@
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>true</FillFromFillingValue>
-					<FillValue xsi:type="xr:DesignTimeRef">3a13eb12-cd30-4e80-b0cc-0c53cf241027.00000000-0000-0000-0000-000000000000</FillValue>
+					<FillValue xsi:type="xr:DesignTimeRef"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -3025,13 +3025,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>Отбор.Владелец</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ab126165-eabf-4f80-b808-45c70367e1fe/0:03bda408-27d3-48b7-a609-ae33174c7eef</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>
@@ -4474,7 +4468,7 @@
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.СпособПредоставления">
-									<app:value xsi:type="xr:DesignTimeRef">ffd18a3d-5851-4ddb-8804-75d45663feb6.c5ce2ab8-6a18-48b6-8b87-416adda9fa91</app:value>
+									<app:value xsi:type="xr:DesignTimeRef"/>
 								</app:item>
 							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>
@@ -4520,7 +4514,7 @@
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.ТипНоменклатуры">
-									<app:value xsi:type="xr:DesignTimeRef">1abc2c39-8429-422d-8d05-db961787d564.d0894a8e-519e-4830-a66e-03426392c100</app:value>
+									<app:value xsi:type="xr:DesignTimeRef"/>
 								</app:item>
 							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>

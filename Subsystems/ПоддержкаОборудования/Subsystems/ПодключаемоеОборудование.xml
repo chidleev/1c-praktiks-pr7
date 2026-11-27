@@ -29,7 +29,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.КодВидаНоменклатурнойКлассификации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВнешняяКомпонентаНеДоступна</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВнешняяКомпонентаДоступна</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">a786340b-1ca9-48ee-8517-6bd389390bcc</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

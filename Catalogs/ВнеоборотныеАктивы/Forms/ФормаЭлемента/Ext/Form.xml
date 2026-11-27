@@ -391,13 +391,13 @@
 				<CommandGroup>FormNavigationPanelImportant</CommandGroup>
 			</Item>
 			<Item>
-				<Command>4:1144cf45-fb30-4fc6-aa2c-bc14ae0e9d6e</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormNavigationPanelImportant</CommandGroup>
 				<Index>1</Index>
 			</Item>
 			<Item>
-				<Command>4:2aa7ea6b-311b-4577-ae16-a6b4c8170d26</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormNavigationPanelImportant</CommandGroup>
 				<Index>2</Index>

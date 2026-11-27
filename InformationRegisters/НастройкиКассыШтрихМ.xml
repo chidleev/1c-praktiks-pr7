@@ -837,13 +837,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>КассаККМ</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:5868db51-ee6e-4dc2-8099-a6895fdb0a23</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -975,13 +969,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Catalog.СпособыОплаты.EmptyRef</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Касса</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:5868db51-ee6e-4dc2-8099-a6895fdb0a23</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -1069,13 +1057,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Catalog.СтруктурныеЕдиницы.EmptyRef</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>КассаККМ</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:5868db51-ee6e-4dc2-8099-a6895fdb0a23</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипСтруктурнойЕдиницы">
 							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыСтруктурныхЕдиниц.EnumValue.Подразделение</app:value>
@@ -1123,13 +1105,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Catalog.Контрагенты.EmptyRef</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Дополнительно.ВидОперации</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:ab6d5c57-e9be-4a58-97c6-beffdbec1b89</xr:DataPath>
-							<xr:ValueChange>DontChange</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>

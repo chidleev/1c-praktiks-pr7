@@ -791,11 +791,6 @@
 							<xr:DataPath xsi:type="xs:string">Catalog.КлючевыеРесурсы.StandardAttribute.Ref</xr:DataPath>
 							<xr:ValueChange>Clear</xr:ValueChange>
 						</xr:Link>
-						<xr:Link>
-							<xr:Name>ТипНоменклатуры</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:142f8ba7-a38b-4348-9c20-d7d426b19366</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
 					</ChoiceParameterLinks>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>

@@ -162,7 +162,6 @@
 					<v8:content>Разделить строку</v8:content>
 				</v8:item>
 			</ToolTip>
-			<AssociatedTableElementId xsi:type="xs:string">4:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="ЗакончитьРедактирование" id="2">
 			<Title>

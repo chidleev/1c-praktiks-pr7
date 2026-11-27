@@ -28,7 +28,7 @@
 			</ButtonGroup>
 			<Button name="ФормаСкопировать" id="40">
 				<Type>CommandBarButton</Type>
-				<CommandName>0:342c531d-dc73-458a-8ac4-6a746916a33b</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ФормаСкопироватьРасширеннаяПодсказка" id="41"/>
 			</Button>
 		</ChildItems>

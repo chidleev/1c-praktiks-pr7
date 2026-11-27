@@ -6,10 +6,5 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="0:bfc0ee1d-2861-4dfb-941e-d72b16f7da72">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 	</CommandsVisibility>
 </CommandInterface>

@@ -244,7 +244,6 @@
 											<v8:content>Командная панель товары</v8:content>
 										</v8:item>
 									</Title>
-									<CommandSource>38:02023637-7868-4a5f-8576-835a76e0c9ba</CommandSource>
 									<ExtendedTooltip name="КоманднаяПанельТоварыExtendedTooltip" id="231"/>
 									<ChildItems>
 										<ButtonGroup name="ГруппаФлажки" id="291">

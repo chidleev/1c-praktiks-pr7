@@ -587,7 +587,6 @@
 													<ExtendedTooltip name="НадписьНалогИсчисленныйРасширеннаяПодсказка" id="646"/>
 												</LabelDecoration>
 												<LabelField name="НалогИсчисленный" id="647">
-													<DataPath>46</DataPath>
 													<TitleLocation>None</TitleLocation>
 													<Width>15</Width>
 													<Format>

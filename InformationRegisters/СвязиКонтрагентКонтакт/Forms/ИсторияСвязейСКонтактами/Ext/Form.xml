@@ -21,7 +21,7 @@
 			</Button>
 			<Button name="ФормаУдалить" id="72">
 				<Type>CommandBarButton</Type>
-				<CommandName>0:1cc781aa-f32b-4dc7-996a-6c38c3deda5c</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ФормаУдалитьРасширеннаяПодсказка" id="73"/>
 			</Button>
 			<Button name="ФормаОбновить" id="38">
@@ -202,7 +202,7 @@
 					</Button>
 					<Button name="СписокКонтекстноеМенюУдалить" id="74">
 						<Type>CommandBarButton</Type>
-						<CommandName>3:8d772f97-c0ef-47c0-9cb0-efea28c61341</CommandName>
+						<CommandName>0</CommandName>
 						<ExtendedTooltip name="СписокКонтекстноеМенюУдалитьРасширеннаяПодсказка" id="75"/>
 					</Button>
 					<Button name="СписокКонтекстноеМенюПоискПоТекущемуЗначению" id="70">

@@ -28512,7 +28512,6 @@
 			<Representation>Picture</Representation>
 			<ModifiesSavedData>true</ModifiesSavedData>
 			<CurrentRowUse>DontUse</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">506:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="ИзменитьМашинноеПолномочие" id="3">
 			<Title>
@@ -28557,7 +28556,6 @@
 			<Representation>Picture</Representation>
 			<ModifiesSavedData>true</ModifiesSavedData>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">506:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="ПодписатьИЗарегистрировать" id="5">
 			<Title>
@@ -28616,7 +28614,6 @@
 			<Representation>Picture</Representation>
 			<ModifiesSavedData>true</ModifiesSavedData>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">506:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="СохранитьКакЧерновик" id="8">
 			<Title>

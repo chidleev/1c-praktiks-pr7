@@ -799,13 +799,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Catalog.НаправленияДеятельности.ОсновноеНаправление</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>ТипНоменклатуры</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:142f8ba7-a38b-4348-9c20-d7d426b19366</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -850,13 +844,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Catalog.СтруктурныеЕдиницы.ОсновноеПодразделение</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Корреспонденция</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:6d574719-c419-4afb-b90d-0a6be67ce87a</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипСтруктурнойЕдиницы">
 							<app:value xsi:type="xr:DesignTimeRef">Enum.ТипыСтруктурныхЕдиниц.EnumValue.Подразделение</app:value>
@@ -1085,13 +1073,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:c270aae4-7479-491d-82c6-ce997f3e6c76</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>

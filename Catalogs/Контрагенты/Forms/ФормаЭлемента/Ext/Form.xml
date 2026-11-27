@@ -4307,7 +4307,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>3:34e86466-9af8-4101-b397-89c62256a040</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 				<Visible>
@@ -4315,7 +4315,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>3:735eb95a-f4a9-4a90-a9a0-ab269b89f4de</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 				<Visible>
@@ -4458,7 +4458,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>0:6c66ff27-19af-4728-95a8-463fd1c4dcd3</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>

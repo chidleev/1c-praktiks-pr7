@@ -3034,7 +3034,7 @@
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
-				<Command>0:d29902e1-1bc9-42e7-b5ee-6204fd8e793b</Command>
+				<Command>0</Command>
 				<Type>Added</Type>
 				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
 				<Index>1</Index>

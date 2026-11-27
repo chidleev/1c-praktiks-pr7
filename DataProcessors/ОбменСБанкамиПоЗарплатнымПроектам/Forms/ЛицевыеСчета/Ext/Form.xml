@@ -178,13 +178,6 @@
 							<DropListButton>false</DropListButton>
 							<ChoiceButton>true</ChoiceButton>
 							<ChoiceButtonRepresentation>ShowInInputField</ChoiceButtonRepresentation>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>Отбор.Организация</xr:Name>
-									<xr:DataPath xsi:type="xs:string">3</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
 							<ContextMenu name="ЛицевыеСчетаФизическоеЛицоКонтекстноеМеню" id="32"/>
 							<ExtendedTooltip name="ЛицевыеСчетаФизическоеЛицоExtendedTooltip" id="45"/>
 							<Events>

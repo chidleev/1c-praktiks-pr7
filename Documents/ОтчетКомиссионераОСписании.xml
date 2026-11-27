@@ -1792,13 +1792,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>СтранаПроисхождения</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ea0636e4-0a1e-4833-8dc3-a6b6f2ed83fa/0:ee98b30c-1cb9-43a7-8aae-ca2e4c21479d</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>

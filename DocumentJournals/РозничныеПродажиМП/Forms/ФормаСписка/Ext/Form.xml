@@ -55,7 +55,7 @@
 			</Button>
 			<Button name="ФормаПоказатьМножественноеВыделение" id="65">
 				<Type>CommandBarButton</Type>
-				<CommandName>0:9fea4ba9-7d33-47d4-a271-cb54df4a9b74</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ФормаПоказатьМножественноеВыделениеРасширеннаяПодсказка" id="66"/>
 			</Button>
 			<Button name="ФормаОткрытьСмену" id="28">

@@ -5468,7 +5468,7 @@
 		</NavigationPanel>
 		<CommandBar>
 			<Item>
-				<Command>0:e8955093-8979-4a2a-aa9c-3cae28cb7b9c</Command>
+				<Command>0</Command>
 				<Type>Added</Type>
 				<CommandGroup>FormCommandBarCreateBasedOn</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>

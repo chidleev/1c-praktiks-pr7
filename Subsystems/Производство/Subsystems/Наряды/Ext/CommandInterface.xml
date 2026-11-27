@@ -6,16 +6,6 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="0:80d0bbce-a4c6-448e-ad9a-903b9edda5f3">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="100:d23febde-b1d3-4701-8734-28d8060b90b0">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="DocumentJournal.ДокументыПоУчетуВремени.StandardCommand.OpenList">
@@ -34,9 +24,6 @@
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 		<Command name="Document.УчетВремени.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="0:80d0bbce-a4c6-448e-ad9a-903b9edda5f3">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 	</CommandsOrder>

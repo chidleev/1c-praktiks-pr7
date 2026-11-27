@@ -20,7 +20,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ИнтеграцияИСМПУНФКлиент</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ИнтеграцияИСМПУНФВызовСервера</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ПечатьЭтикетокИСМПУНФ</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">e5bf3966-4d4c-4fc8-8990-107b644af390</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

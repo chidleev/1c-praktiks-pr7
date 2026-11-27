@@ -219,7 +219,7 @@
 					<xr:Comment/>
 					<xr:FullTextSearch>Use</xr:FullTextSearch>
 					<xr:ChoiceParameterLinks/>
-					<xr:FillValue xsi:type="xr:DesignTimeRef">0b7ede03-3850-4185-bab3-82dc9ff90bd0.00000000-0000-0000-0000-000000000000</xr:FillValue>
+					<xr:FillValue xsi:type="xr:DesignTimeRef"/>
 					<xr:Mask/>
 					<xr:ChoiceParameters>
 						<app:item name="Отбор.Поставщик">

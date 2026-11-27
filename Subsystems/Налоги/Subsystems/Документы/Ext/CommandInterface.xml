@@ -121,9 +121,6 @@
 		<Command name="Document.СведенияОТрудовойДеятельностиРаботниковСЗВ_ТД.Command.СведенияОТрудовойДеятельностиРаботниковСЗВ_ТД">
 			<CommandGroup>CommandGroup.ДокументыНалоги</CommandGroup>
 		</Command>
-		<Command name="0:57338584-f89b-469d-b9ed-99f152680ab8">
-			<CommandGroup>CommandGroup.ДокументыНалоги</CommandGroup>
-		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
 		<Group>NavigationPanelOrdinary</Group>

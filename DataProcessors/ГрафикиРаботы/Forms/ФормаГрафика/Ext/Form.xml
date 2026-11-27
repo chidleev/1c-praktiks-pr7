@@ -7,11 +7,8 @@
 	</AutoCommandBar>
 	<Events>
 		<Event name="ChoiceProcessing">ОбработкаВыбора</Event>
-		<Event name="390d5e4b-e732-4c88-8748-9e211a416984">ПриЧтенииНаСервере</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
-		<Event name="9cc34712-da5f-4faa-a653-343d2085fbe8">ПередЗаписью</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
-		<Event name="c1bc0d3e-d35e-4207-a06b-ece68ed25314">ПриЗаписиНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапкаФормы" id="706">

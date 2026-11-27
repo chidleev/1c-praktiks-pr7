@@ -1523,9 +1523,6 @@
 							<v8:AllowedLength>Variable</v8:AllowedLength>
 						</v8:StringQualifiers>
 					</Type>
-					<FunctionalOptions>
-						<Item>7481c4c7-e4d3-4f12-a4a9-e60c7952c6f0</Item>
-					</FunctionalOptions>
 				</Column>
 				<Column name="Склад" id="4">
 					<Type>

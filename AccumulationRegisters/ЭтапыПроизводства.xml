@@ -344,13 +344,7 @@
 					<MaxValue xsi:nil="true"/>
 					<FillChecking>ShowError</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Склад</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:dfc8a963-a6d0-45d2-937b-84b930cf49d0</xr:DataPath>
-							<xr:ValueChange>DontChange</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.ТипНоменклатуры">
 							<app:value xsi:type="v8:FixedArray">
@@ -411,13 +405,7 @@
 					<MaxValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:9ffcd3d3-7566-4c25-9781-d002bffb7373/0:2f53a311-67a4-4c47-bcad-afef1a170bed</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -460,18 +448,7 @@
 					<MaxValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:9ffcd3d3-7566-4c25-9781-d002bffb7373/0:2f53a311-67a4-4c47-bcad-afef1a170bed</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>Отбор.ХарактеристикаПродукции</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:9ffcd3d3-7566-4c25-9781-d002bffb7373/0:85cb6853-8646-416c-a1fd-e4de1c559086</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -514,13 +491,7 @@
 					<MaxValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:9ffcd3d3-7566-4c25-9781-d002bffb7373/0:2f53a311-67a4-4c47-bcad-afef1a170bed</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters>
 						<app:item name="Отбор.Статус">
 							<app:value xsi:type="v8:FixedArray">

@@ -37,7 +37,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбновлениеИнформационнойБазыСерверЛояльности</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщегоНазначенияСерверЛояльностиКлиентСервер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидыОплатСерверЛояльности</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">dd5e02e0-b17a-4dfd-b7a1-7c1ee761c3b0</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

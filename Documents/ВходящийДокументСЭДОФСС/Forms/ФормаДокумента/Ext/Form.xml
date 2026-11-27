@@ -24,9 +24,7 @@
 		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 		<Event name="OnOpen">ПриОткрытии</Event>
 		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
-		<Event name="9cc34712-da5f-4faa-a653-343d2085fbe8">ПередЗаписью</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
-		<Event name="bf0ac0e1-bcbb-4dfe-8fc4-0b1923b461a6">ПередЗаписьюНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<CommandBar name="ГруппаКоманднаяПанель" id="1">
@@ -907,7 +905,7 @@
 	<CommandInterface>
 		<NavigationPanel>
 			<Item>
-				<Command>3:e07e82f5-3363-42db-8ebc-d4a751a5b818</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 				<Visible>
@@ -915,7 +913,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>3:8dbe8796-a037-44ae-b35d-5593aa85f601</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 				<Visible>
@@ -923,7 +921,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>3:3953cc60-6482-471c-9699-41c70c93335d</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
@@ -944,7 +942,7 @@
 		</NavigationPanel>
 		<CommandBar>
 			<Item>
-				<Command>0:4f15077e-f81b-4f2d-a6c5-b12413039e9b</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
@@ -953,7 +951,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>2:12eab95b-6ea7-43d3-a0c4-c27b27c85bca</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarCreateBasedOn</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>

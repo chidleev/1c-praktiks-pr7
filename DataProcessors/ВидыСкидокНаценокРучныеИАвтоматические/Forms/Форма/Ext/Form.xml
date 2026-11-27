@@ -313,7 +313,6 @@
 							<ShowRoot>true</ShowRoot>
 							<AllowRootChoice>false</AllowRootChoice>
 							<UpdateOnDataChange>Auto</UpdateOnDataChange>
-							<UserSettingsGroup>251:02023637-7868-4a5f-8576-835a76e0c9ba</UserSettingsGroup>
 							<AllowGettingCurrentRowURL>true</AllowGettingCurrentRowURL>
 							<ContextMenu name="АвтоматическиеСкидкиКонтекстноеМеню" id="39">
 								<ChildItems>

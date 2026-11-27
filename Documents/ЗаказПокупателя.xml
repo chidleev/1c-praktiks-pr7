@@ -6566,6 +6566,49 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="02dc04be-f82b-4b54-ab5f-ebbd8f3dc797">
+				<Properties>
+					<Name>_СостояниеДоставки</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Состояние доставки</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>30</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:type="xs:string"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Attribute>
 			<Form>ФормаДокумента</Form>
 			<Form>ФормаВыбора</Form>
 			<Form>ФормаСписка</Form>
@@ -7723,13 +7766,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>СтранаПроисхождения</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ea0636e4-0a1e-4833-8dc3-a6b6f2ed83fa/0:ee98b30c-1cb9-43a7-8aae-ca2e4c21479d</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>
@@ -11355,13 +11392,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>СтранаПроисхождения</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ea0636e4-0a1e-4833-8dc3-a6b6f2ed83fa/0:ee98b30c-1cb9-43a7-8aae-ca2e4c21479d</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>
@@ -12781,13 +12812,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>Отбор.Владелец</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ee64648e-4461-43bf-97c2-5693be08cbf4/0:e1d4c591-0a6f-4fd1-bd6d-132ecde3b240</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.Продан">
 									<app:value xsi:type="xs:boolean">true</app:value>
@@ -15965,7 +15990,7 @@
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.СпособПредоставления">
-									<app:value xsi:type="xr:DesignTimeRef">ffd18a3d-5851-4ddb-8804-75d45663feb6.c5ce2ab8-6a18-48b6-8b87-416adda9fa91</app:value>
+									<app:value xsi:type="xr:DesignTimeRef"/>
 								</app:item>
 							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>
@@ -16011,7 +16036,7 @@
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
 								<app:item name="Отбор.ТипНоменклатуры">
-									<app:value xsi:type="xr:DesignTimeRef">1abc2c39-8429-422d-8d05-db961787d564.d0894a8e-519e-4830-a66e-03426392c100</app:value>
+									<app:value xsi:type="xr:DesignTimeRef"/>
 								</app:item>
 							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>
@@ -16285,13 +16310,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>Отбор.Владелец</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ae882be7-c0ea-4171-9749-9e733683f585</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>
@@ -18599,13 +18618,7 @@
 							<MaxValue xsi:nil="true"/>
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks>
-								<xr:Link>
-									<xr:Name>СтранаПроисхождения</xr:Name>
-									<xr:DataPath xsi:type="xs:string">0:ea0636e4-0a1e-4833-8dc3-a6b6f2ed83fa/0:ee98b30c-1cb9-43a7-8aae-ca2e4c21479d</xr:DataPath>
-									<xr:ValueChange>Clear</xr:ValueChange>
-								</xr:Link>
-							</ChoiceParameterLinks>
+							<ChoiceParameterLinks/>
 							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>

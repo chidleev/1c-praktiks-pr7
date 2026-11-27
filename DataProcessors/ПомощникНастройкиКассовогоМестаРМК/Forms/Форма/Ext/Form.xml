@@ -3590,7 +3590,7 @@
 																<Value xsi:type="v8:FixedArray">
 																	<v8:Value xsi:type="FormChoiceListDesTimeValue">
 																		<Presentation/>
-																		<Value xsi:type="xr:DesignTimeRef">4fdc847d-32ea-4204-8aff-0384bf06e4b7.13982be7-903b-447a-a298-620a849ec1a0</Value>
+																		<Value xsi:type="xr:DesignTimeRef"/>
 																	</v8:Value>
 																	<v8:Value xsi:type="FormChoiceListDesTimeValue">
 																		<Presentation/>

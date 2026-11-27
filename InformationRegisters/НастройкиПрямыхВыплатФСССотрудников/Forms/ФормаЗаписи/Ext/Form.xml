@@ -306,7 +306,7 @@
 										<app:item name="Отбор.Родитель">
 											<app:value xsi:type="FormChoiceListDesTimeValue">
 												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">fc1d5c1f-385f-493f-a538-f80a12c7cb6f.8c9bce6a-a9b1-4927-bfc1-8931787af811</Value>
+												<Value xsi:type="xr:DesignTimeRef"/>
 											</app:value>
 										</app:item>
 										<app:item name="Отбор.Используется">

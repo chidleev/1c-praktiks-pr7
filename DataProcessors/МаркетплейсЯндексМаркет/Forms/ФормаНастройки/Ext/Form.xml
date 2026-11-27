@@ -3424,10 +3424,6 @@
 													<TitleLocation>None</TitleLocation>
 													<Width>2</Width>
 													<Hyperlink>true</Hyperlink>
-													<ValuesPicture>
-														<xr:Ref>0:c78c1d9c-5c34-4636-bf2c-6cc410e95003</xr:Ref>
-														<xr:LoadTransparent>false</xr:LoadTransparent>
-													</ValuesPicture>
 													<ContextMenu name="АссортиментЕстьИдентификаторПлощадкиКонтекстноеМеню" id="614"/>
 													<ExtendedTooltip name="АссортиментЕстьИдентификаторПлощадкиРасширеннаяПодсказка" id="615"/>
 												</PictureField>

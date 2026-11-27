@@ -11,16 +11,6 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="0:a15eef28-cfde-4a53-a5e0-27e264e4a982">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="0:e77b2fe4-60cc-41fa-8270-78f0c8f55a16">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="Document.ЗаказПокупателя.Command.СоздатьНовыйЗаказНаряд">
 			<Visibility>
 				<xr:Common>false</xr:Common>

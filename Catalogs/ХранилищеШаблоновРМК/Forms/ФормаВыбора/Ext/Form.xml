@@ -9,7 +9,7 @@
 			<Button name="ФормаСоздатьГруппу" id="21">
 				<Type>CommandBarButton</Type>
 				<Visible>false</Visible>
-				<CommandName>0:d8772fd1-a3bf-417d-8334-c49968dbb45e</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ФормаСоздатьГруппуРасширеннаяПодсказка" id="22"/>
 			</Button>
 		</ChildItems>

@@ -17,13 +17,10 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОборудованиеВесовоеОборудованиеКлиент</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">d2120923-b657-4732-a9aa-a9116d6c91af</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверАТОЛЭлектронныеВесы8X_ru</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверШтрихМЭлектронныеВесыPOS2_ru</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверМассаКЭлектронныеВесыИСПечатьюЭтикеток_ru</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">3b9d0860-32e0-488b-acc9-8cab3d076821</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверРБСВесыCПечатьюЭтикеток_ru</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">df5fe13f-ac3c-43a2-8640-4b5a6e9b7327</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОборудованиеВесовоеОборудованиеКлиентСервер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверАТОЛВесыСПечатьюЭтикеток8X_ru</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверСервисПлюсЭлектронныеВесы_ru</xr:Item>
@@ -44,7 +41,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверМертехЭлектронныеВесы_ru</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОборудованиеВесовоеОборудование</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверРБСВесыCПечатьюЭтикетокVenus</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">e6e5a619-cb96-4986-81d4-d809f57b2193</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ДрайверНАИСЭлектронныеВесы_ru</xr:Item>
 			</Content>
 		</Properties>

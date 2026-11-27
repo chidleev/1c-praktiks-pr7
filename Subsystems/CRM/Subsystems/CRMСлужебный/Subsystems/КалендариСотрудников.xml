@@ -41,10 +41,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ИспользоватьКалендариСотрудников</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">FunctionalOption.ИспользоватьКалендариСотрудников</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ЧтениеКалендаряСотрудника</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">589e5066-5fdb-4ef8-83fe-77a03701be52</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ExchangePlan.ОбменСКалендарямиDAV</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДанныеСобытийВнешнихКалендарей</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">21b03fde-a442-4ade-b0db-016096e606b4</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

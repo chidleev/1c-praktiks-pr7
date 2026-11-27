@@ -66,16 +66,6 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="0:16eab2d9-6248-4ec5-8bf9-2413164dead1">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="0:c228f5d3-cfcd-4f86-846e-b72791ee1bd8">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="CommonCommand.ЗагрузкаКурсовВалют">
 			<Visibility>
 				<xr:Common>false</xr:Common>

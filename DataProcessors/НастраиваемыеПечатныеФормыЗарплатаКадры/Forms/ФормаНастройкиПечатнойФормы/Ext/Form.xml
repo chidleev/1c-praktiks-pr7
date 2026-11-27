@@ -290,7 +290,6 @@
 			<Behavior>Usual</Behavior>
 			<Representation>None</Representation>
 			<ShowTitle>false</ShowTitle>
-			<TitleDataPath>10</TitleDataPath>
 			<ExtendedTooltip name="МакетПечатнойФормыГруппаРасширеннаяПодсказка" id="123"/>
 			<ChildItems>
 				<SpreadSheetDocumentField name="МакетПечатнойФормы" id="20">
