@@ -16,11 +16,6 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="0:72eed356-2ecc-4721-a788-b58d66ac4fe4">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="DataProcessor.СервисДоставки.Command.ОтслеживаниеЗаказа">
 			<Visibility>
 				<xr:Common>false</xr:Common>
@@ -54,9 +49,6 @@
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 		<Command name="InformationRegister.ЗаказыСервисовДоставки.StandardCommand.OpenList">
-			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="0:72eed356-2ecc-4721-a788-b58d66ac4fe4">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 		<Command name="DataProcessor.СервисДоставки.Command.ОтслеживаниеЗаказа">

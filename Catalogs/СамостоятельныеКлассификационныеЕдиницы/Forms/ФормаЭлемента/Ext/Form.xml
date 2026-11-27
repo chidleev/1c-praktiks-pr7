@@ -41,7 +41,7 @@
 			</ButtonGroup>
 			<Button name="ФормаСправка" id="96">
 				<Type>CommandBarButton</Type>
-				<CommandName>0:39bb0fe9-771d-4dd5-8a6e-2d16984523af</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ФормаСправкаРасширеннаяПодсказка" id="97"/>
 			</Button>
 		</ChildItems>

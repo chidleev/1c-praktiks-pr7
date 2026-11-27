@@ -8,7 +8,6 @@
 	</Title>
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<SaveDataInSettings>UseList</SaveDataInSettings>
-	<SettingsStorage>b5c28f50-ac08-4d71-a057-c4c411e6b6d4</SettingsStorage>
 	<AutoTitle>false</AutoTitle>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
 		<Autofill>false</Autofill>

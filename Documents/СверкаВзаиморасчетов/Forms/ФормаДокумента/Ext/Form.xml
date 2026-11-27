@@ -110,7 +110,6 @@
 				<Type>CommandBarButton</Type>
 				<Visible>false</Visible>
 				<CommandName>Form.StandardCommand.ShowInList</CommandName>
-				<Parameter xsi:type="xr:MDObjectRef">2a07a9b0-3116-4524-93b2-9a1336ae3707</Parameter>
 				<ExtendedTooltip name="ПоказатьВЖурналеКонтрагентовРасширеннаяПодсказка" id="588"/>
 			</Button>
 			<ButtonGroup name="КомандыСмТакже" id="721">
@@ -1652,7 +1651,6 @@
 			</ToolTip>
 			<Use>
 				<xr:Common>true</xr:Common>
-				<xr:Value name="c4d67026-2c97-4126-b8be-49aa6f567e2d">false</xr:Value>
 				<xr:Value name="Role.БазовыеПраваБСП">false</xr:Value>
 				<xr:Value name="Role.ЗапускAutomation">false</xr:Value>
 				<xr:Value name="Role.ЗапускВебКлиента">false</xr:Value>

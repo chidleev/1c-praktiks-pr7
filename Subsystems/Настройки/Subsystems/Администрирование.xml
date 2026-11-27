@@ -54,7 +54,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.ПредупрежденияПриСинхронизацииДанных</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.НастройкиСинхронизацииДанныхВМоделиСервиса</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВходВОбластьДанных</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">5d323808-0c04-4e21-bfd2-61dbdcbafde8</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.НастройкаДоступаКСервисуMorpher</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.НастройкаКомандПечати</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.НастройкаОтправкиSMS</xr:Item>

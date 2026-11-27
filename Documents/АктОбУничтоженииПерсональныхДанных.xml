@@ -193,15 +193,11 @@
 						<xr:KeyField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеРеквизиты.Attribute.Свойство</xr:KeyField>
 						<xr:TypesFilterField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеРеквизиты.Attribute.ИмяПредопределенногоНабора</xr:TypesFilterField>
 						<xr:TypesFilterValue xsi:type="xs:string">Документ_АктОбУничтоженииПерсональныхДанных</xr:TypesFilterValue>
-						<xr:DataPathField>0</xr:DataPathField>
-						<xr:MultipleValuesUseField>0</xr:MultipleValuesUseField>
 					</xr:CharacteristicTypes>
 					<xr:CharacteristicValues from="Document.АктОбУничтоженииПерсональныхДанных.TabularSection.ДополнительныеРеквизиты">
 						<xr:ObjectField>Document.АктОбУничтоженииПерсональныхДанных.TabularSection.ДополнительныеРеквизиты.StandardAttribute.Ref</xr:ObjectField>
 						<xr:TypeField>Document.АктОбУничтоженииПерсональныхДанных.TabularSection.ДополнительныеРеквизиты.Attribute.Свойство</xr:TypeField>
 						<xr:ValueField>Document.АктОбУничтоженииПерсональныхДанных.TabularSection.ДополнительныеРеквизиты.Attribute.Значение</xr:ValueField>
-						<xr:MultipleValuesKeyField>0</xr:MultipleValuesKeyField>
-						<xr:MultipleValuesOrderField>0</xr:MultipleValuesOrderField>
 					</xr:CharacteristicValues>
 				</xr:Characteristic>
 				<xr:Characteristic>
@@ -209,15 +205,11 @@
 						<xr:KeyField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеСведения.Attribute.Свойство</xr:KeyField>
 						<xr:TypesFilterField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеСведения.Attribute.ИмяПредопределенногоНабора</xr:TypesFilterField>
 						<xr:TypesFilterValue xsi:type="xs:string">Документ_АктОбУничтоженииПерсональныхДанных</xr:TypesFilterValue>
-						<xr:DataPathField>0</xr:DataPathField>
-						<xr:MultipleValuesUseField>0</xr:MultipleValuesUseField>
 					</xr:CharacteristicTypes>
 					<xr:CharacteristicValues from="InformationRegister.ДополнительныеСведения">
 						<xr:ObjectField>InformationRegister.ДополнительныеСведения.Dimension.Объект</xr:ObjectField>
 						<xr:TypeField>InformationRegister.ДополнительныеСведения.Dimension.Свойство</xr:TypeField>
 						<xr:ValueField>InformationRegister.ДополнительныеСведения.Resource.Значение</xr:ValueField>
-						<xr:MultipleValuesKeyField>0</xr:MultipleValuesKeyField>
-						<xr:MultipleValuesOrderField>0</xr:MultipleValuesOrderField>
 					</xr:CharacteristicValues>
 				</xr:Characteristic>
 			</Characteristics>

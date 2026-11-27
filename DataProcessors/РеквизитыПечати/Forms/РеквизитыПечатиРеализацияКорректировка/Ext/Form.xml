@@ -559,13 +559,6 @@
 							<v8:content>Банк. счет (организации)</v8:content>
 						</v8:item>
 					</Title>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Организация</xr:Name>
-							<xr:DataPath xsi:type="xs:string">1/0:ba7dcb3b-b8b9-4d44-ab5f-56f7a228f10d</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
 					<ContextMenu name="БанковскийСчетКонтекстноеМеню" id="53"/>
 					<ExtendedTooltip name="БанковскийСчетРасширеннаяПодсказка" id="54"/>
 					<Events>

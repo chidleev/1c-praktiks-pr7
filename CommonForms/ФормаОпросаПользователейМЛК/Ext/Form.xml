@@ -1263,7 +1263,6 @@
 							<ExtendedTooltip name="ДекорацияНовыеФункцииРасширеннаяПодсказка" id="133"/>
 						</LabelDecoration>
 						<InputField name="ОпросНовыеФункции" id="134">
-							<DataPath>30</DataPath>
 							<Title>
 								<v8:item>
 									<v8:lang>ru</v8:lang>
@@ -1299,7 +1298,7 @@
 							<ChildItems>
 								<Button name="ОпросНазад3" id="142">
 									<Type>UsualButton</Type>
-									<CommandName>13:409b9a53-7f7e-4178-86c1-33176c7c7a7a</CommandName>
+									<CommandName>0</CommandName>
 									<Title>
 										<v8:item>
 											<v8:lang>ru</v8:lang>
@@ -1315,7 +1314,7 @@
 								</LabelDecoration>
 								<Button name="ОпросДалее3" id="147">
 									<Type>UsualButton</Type>
-									<CommandName>14:409b9a53-7f7e-4178-86c1-33176c7c7a7a</CommandName>
+									<CommandName>0</CommandName>
 									<TextColor>#FFFFFF</TextColor>
 									<BackColor>#0074E4</BackColor>
 									<BorderColor>#0074E4</BorderColor>

@@ -64,7 +64,7 @@
 						</Button>
 						<Button name="СписокУстановитьИнтервал" id="33">
 							<Type>CommandBarButton</Type>
-							<CommandName>1:daa306cd-a78a-4e74-a14c-739daba624cb</CommandName>
+							<CommandName>0</CommandName>
 							<ExtendedTooltip name="СписокУстановитьИнтервалExtendedTooltip" id="34"/>
 						</Button>
 					</ChildItems>
@@ -99,7 +99,6 @@
 			<ShowRoot>true</ShowRoot>
 			<AllowRootChoice>false</AllowRootChoice>
 			<UpdateOnDataChange>Auto</UpdateOnDataChange>
-			<UserSettingsGroup>1:02023637-7868-4a5f-8576-835a76e0c9ba</UserSettingsGroup>
 			<AllowGettingCurrentRowURL>true</AllowGettingCurrentRowURL>
 			<ContextMenu name="СписокКонтекстноеМеню" id="4"/>
 			<AutoCommandBar name="СписокКоманднаяПанель" id="5">

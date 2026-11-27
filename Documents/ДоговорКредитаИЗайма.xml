@@ -691,13 +691,7 @@
 					<FillValue xsi:type="xr:DesignTimeRef">Document.ЗаказПокупателя.EmptyRef</FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Корреспонденция</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:6d574719-c419-4afb-b90d-0a6be67ce87a</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>

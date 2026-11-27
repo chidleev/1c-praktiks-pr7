@@ -136,7 +136,6 @@
 				<Type>CommandBarButton</Type>
 				<Visible>false</Visible>
 				<CommandName>Form.StandardCommand.ShowInList</CommandName>
-				<Parameter xsi:type="xr:MDObjectRef">2a07a9b0-3116-4524-93b2-9a1336ae3707</Parameter>
 				<ExtendedTooltip name="ПоказатьВЖурналеКонтрагентовРасширеннаяПодсказка" id="357"/>
 			</Button>
 		</ChildItems>
@@ -482,7 +481,7 @@
 							<Type>UsualButton</Type>
 							<Visible>false</Visible>
 							<Width>9</Width>
-							<CommandName>231:b0016a68-ec64-4e6d-b905-c71fd62efc4c</CommandName>
+							<CommandName>0</CommandName>
 							<Title>
 								<v8:item>
 									<v8:lang>ru</v8:lang>

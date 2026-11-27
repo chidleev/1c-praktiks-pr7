@@ -268,12 +268,12 @@
 												<ChildItems>
 													<Button name="НаборЗаписейВременноПребывающиеПринятыеПоДолгосрочнымДоговорамДобавить" id="44">
 														<Type>CommandBarButton</Type>
-														<CommandName>1:b0016a68-ec64-4e6d-b905-c71fd62efc4c</CommandName>
+														<CommandName>0</CommandName>
 														<ExtendedTooltip name="НаборЗаписейВременноПребывающиеПринятыеПоДолгосрочнымДоговорамДобавитьExtendedTooltip" id="83"/>
 													</Button>
 													<Button name="НаборЗаписейВременноПребывающиеПринятыеПоДолгосрочнымДоговорамУдалить" id="45">
 														<Type>CommandBarButton</Type>
-														<CommandName>1:8d772f97-c0ef-47c0-9cb0-efea28c61341</CommandName>
+														<CommandName>0</CommandName>
 														<ExtendedTooltip name="НаборЗаписейВременноПребывающиеПринятыеПоДолгосрочнымДоговорамУдалитьExtendedTooltip" id="84"/>
 													</Button>
 												</ChildItems>

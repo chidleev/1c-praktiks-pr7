@@ -429,7 +429,6 @@
 									</ChildItems>
 								</UsualGroup>
 								<CheckBoxField name="ОбычныеКаналыСвязиFTPПассивныйРежим" id="181">
-									<DataPath>47</DataPath>
 									<TitleLocation>Right</TitleLocation>
 									<CheckBoxType>Auto</CheckBoxType>
 									<ContextMenu name="ОбычныеКаналыСвязиFTPПассивныйРежимКонтекстноеМеню" id="182"/>

@@ -91,7 +91,7 @@
 								<ChildItems>
 									<Button name="ВариантыОтчетаИзменить" id="51">
 										<Type>CommandBarButton</Type>
-										<CommandName>1:b41f5bbc-ba5d-4888-8cd1-db246a371418</CommandName>
+										<CommandName>0</CommandName>
 										<ExtendedTooltip name="ВариантыОтчетаИзменитьExtendedTooltip" id="113"/>
 									</Button>
 									<Button name="ВариантыОтчетаУдалить" id="14">

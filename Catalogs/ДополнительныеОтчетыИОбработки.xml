@@ -314,15 +314,11 @@
 						<xr:KeyField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеРеквизиты.Attribute.Свойство</xr:KeyField>
 						<xr:TypesFilterField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеРеквизиты.Attribute.ИмяПредопределенногоНабора</xr:TypesFilterField>
 						<xr:TypesFilterValue xsi:type="xs:string">Справочник_ДополнительныеОтчетыИОбработки</xr:TypesFilterValue>
-						<xr:DataPathField>0</xr:DataPathField>
-						<xr:MultipleValuesUseField>0</xr:MultipleValuesUseField>
 					</xr:CharacteristicTypes>
 					<xr:CharacteristicValues from="Catalog.ДополнительныеОтчетыИОбработки.TabularSection.ДополнительныеРеквизиты">
 						<xr:ObjectField>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.ДополнительныеРеквизиты.StandardAttribute.Ref</xr:ObjectField>
 						<xr:TypeField>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.ДополнительныеРеквизиты.Attribute.Свойство</xr:TypeField>
 						<xr:ValueField>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.ДополнительныеРеквизиты.Attribute.Значение</xr:ValueField>
-						<xr:MultipleValuesKeyField>0</xr:MultipleValuesKeyField>
-						<xr:MultipleValuesOrderField>0</xr:MultipleValuesOrderField>
 					</xr:CharacteristicValues>
 				</xr:Characteristic>
 				<xr:Characteristic>
@@ -330,15 +326,11 @@
 						<xr:KeyField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеСведения.Attribute.Свойство</xr:KeyField>
 						<xr:TypesFilterField>Catalog.НаборыДополнительныхРеквизитовИСведений.TabularSection.ДополнительныеСведения.Attribute.ИмяПредопределенногоНабора</xr:TypesFilterField>
 						<xr:TypesFilterValue xsi:type="xs:string">Справочник_ДополнительныеОтчетыИОбработки</xr:TypesFilterValue>
-						<xr:DataPathField>0</xr:DataPathField>
-						<xr:MultipleValuesUseField>0</xr:MultipleValuesUseField>
 					</xr:CharacteristicTypes>
 					<xr:CharacteristicValues from="InformationRegister.ДополнительныеСведения">
 						<xr:ObjectField>InformationRegister.ДополнительныеСведения.Dimension.Объект</xr:ObjectField>
 						<xr:TypeField>InformationRegister.ДополнительныеСведения.Dimension.Свойство</xr:TypeField>
 						<xr:ValueField>InformationRegister.ДополнительныеСведения.Resource.Значение</xr:ValueField>
-						<xr:MultipleValuesKeyField>0</xr:MultipleValuesKeyField>
-						<xr:MultipleValuesOrderField>0</xr:MultipleValuesOrderField>
 					</xr:CharacteristicValues>
 				</xr:Characteristic>
 			</Characteristics>

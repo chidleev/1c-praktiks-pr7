@@ -19,7 +19,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСКлассификаторамиСлужебныйВМоделиСервиса</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.КонтрольНеразделенныхНаборовЗаписейПриЗаписиРаботаСКлассификаторами</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСКлассификаторамиВМоделиСервисаПереопределяемый</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">7626996f-8187-4855-8365-0cc7e4384801</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

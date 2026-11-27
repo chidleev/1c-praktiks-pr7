@@ -240,9 +240,6 @@
 				<v8:Type>cfg:CatalogObject.ШаблоныГенерацииПромокодов</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
-			<Save>
-				<Field>1/0:7bbc8696-783d-4c6e-8e58-2bc2380644f4</Field>
-			</Save>
 		</Attribute>
 	</Attributes>
 </Form>

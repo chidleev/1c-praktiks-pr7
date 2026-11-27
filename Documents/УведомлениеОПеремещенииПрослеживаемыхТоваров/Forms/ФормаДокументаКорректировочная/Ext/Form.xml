@@ -592,7 +592,7 @@
 				<ChildItems>
 					<Button name="ТоварыДобавить" id="178">
 						<Type>CommandBarButton</Type>
-						<CommandName>26:b0016a68-ec64-4e6d-b905-c71fd62efc4c</CommandName>
+						<CommandName>0</CommandName>
 						<ExtendedTooltip name="ТоварыДобавитьРасширеннаяПодсказка" id="179"/>
 					</Button>
 					<Button name="ФормаКомандаЗаполнить" id="166">

@@ -1014,7 +1014,7 @@
 	<CommandInterface>
 		<NavigationPanel>
 			<Item>
-				<Command>4:4f601581-1945-4efb-9b70-ac4009139077</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 				<Visible>

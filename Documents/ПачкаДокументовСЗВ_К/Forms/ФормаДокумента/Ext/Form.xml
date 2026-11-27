@@ -930,7 +930,7 @@
 		</NavigationPanel>
 		<CommandBar>
 			<Item>
-				<Command>0:beaaa5ef-f76c-4dc8-9dd0-d6b920d3deec</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarImportant</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
@@ -939,19 +939,19 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>0:03e46733-7cad-490e-9be1-5ee39f663fef</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Печать</CommandGroup>
 				<Index>1</Index>
 			</Item>
 			<Item>
-				<Command>0:8fe9d86c-0d98-486f-beeb-9d9929509e43</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Печать</CommandGroup>
 				<Index>2</Index>
 			</Item>
 			<Item>
-				<Command>0:2baf6d7a-12ed-4f22-ad96-92bb31b747ff</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Печать</CommandGroup>
 				<Index>3</Index>
@@ -961,7 +961,7 @@
 				</Visible>
 			</Item>
 			<Item>
-				<Command>0:850918e6-66c2-42d0-b6bc-76ced4425404</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Печать</CommandGroup>
 			</Item>

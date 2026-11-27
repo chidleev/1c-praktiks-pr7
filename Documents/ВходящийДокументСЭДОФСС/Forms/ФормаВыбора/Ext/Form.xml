@@ -148,7 +148,7 @@
 	<CommandInterface>
 		<CommandBar>
 			<Item>
-				<Command>2:12eab95b-6ea7-43d3-a0c4-c27b27c85bca</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarCreateBasedOn</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>

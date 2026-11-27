@@ -2730,7 +2730,6 @@
 			</ToolTip>
 			<Action>СобытиеSMS</Action>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">3:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="СобытиеЗапись" id="12">
 			<Title>
@@ -2762,7 +2761,6 @@
 			</ToolTip>
 			<Action>СобытиеЛичнаяВстреча</Action>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">3:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="СобытиеПрочее" id="14">
 			<Title>
@@ -2779,7 +2777,6 @@
 			</ToolTip>
 			<Action>СобытиеПрочее</Action>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">3:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="СобытиеТелефонныйЗвонок" id="15">
 			<Title>
@@ -2796,7 +2793,6 @@
 			</ToolTip>
 			<Action>СобытиеТелефонныйЗвонок</Action>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">3:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 		<Command name="СобытиеЭлектронноеПисьмо" id="16">
 			<Title>
@@ -2813,7 +2809,6 @@
 			</ToolTip>
 			<Action>СобытиеЭлектронноеПисьмо</Action>
 			<CurrentRowUse>Use</CurrentRowUse>
-			<AssociatedTableElementId xsi:type="xs:string">3:02023637-7868-4a5f-8576-835a76e0c9ba</AssociatedTableElementId>
 		</Command>
 	</Commands>
 	<CommandInterface>

@@ -29,7 +29,7 @@
 						<Type>CommandBarButton</Type>
 						<Visible>false</Visible>
 						<Representation>Text</Representation>
-						<CommandName>93554:409b9a53-7f7e-4178-86c1-33176c7c7a7a</CommandName>
+						<CommandName>0</CommandName>
 						<ExtendedTooltip name="ЗаписатьИЗакрытьРасширеннаяПодсказка" id="12265"/>
 					</Button>
 					<Button name="Записать" id="12266">

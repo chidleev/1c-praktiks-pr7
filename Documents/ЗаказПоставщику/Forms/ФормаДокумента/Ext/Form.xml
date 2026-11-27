@@ -190,7 +190,6 @@
 				<Type>CommandBarButton</Type>
 				<Visible>false</Visible>
 				<CommandName>Form.StandardCommand.ShowInList</CommandName>
-				<Parameter xsi:type="xr:MDObjectRef">2a07a9b0-3116-4524-93b2-9a1336ae3707</Parameter>
 				<ExtendedTooltip name="ПоказатьВЖурналеКонтрагентовРасширеннаяПодсказка" id="622"/>
 			</Button>
 		</ChildItems>
@@ -5223,7 +5222,7 @@
 				<Index>12</Index>
 			</Item>
 			<Item>
-				<Command>0:51af4ec7-f45f-4177-904c-cee5f835e582</Command>
+				<Command>0</Command>
 				<Type>Auto</Type>
 				<CommandGroup>FormCommandBarCreateBasedOn</CommandGroup>
 				<Index>14</Index>

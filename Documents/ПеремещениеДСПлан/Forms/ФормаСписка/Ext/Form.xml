@@ -570,10 +570,6 @@
 															<TitleLocation>None</TitleLocation>
 															<ChoiceButton>false</ChoiceButton>
 															<ListChoiceMode>true</ListChoiceMode>
-															<TypeLink>
-																<xr:DataPath>20</xr:DataPath>
-																<xr:LinkItem>0</xr:LinkItem>
-															</TypeLink>
 															<InputHint>
 																<v8:item>
 																	<v8:lang>ru</v8:lang>
@@ -612,10 +608,6 @@
 															<TitleLocation>None</TitleLocation>
 															<ChoiceButton>false</ChoiceButton>
 															<ListChoiceMode>true</ListChoiceMode>
-															<TypeLink>
-																<xr:DataPath>20</xr:DataPath>
-																<xr:LinkItem>0</xr:LinkItem>
-															</TypeLink>
 															<InputHint>
 																<v8:item>
 																	<v8:lang>ru</v8:lang>

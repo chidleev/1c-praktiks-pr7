@@ -207,10 +207,6 @@
 					<v8:content>Назад</v8:content>
 				</v8:item>
 			</Title>
-			<Picture>
-				<xr:Ref>0:c07ebf12-04a0-4e30-b247-33eb49b99988</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-			</Picture>
 			<Action>Назад</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
 		</Command>

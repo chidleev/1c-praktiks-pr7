@@ -14,7 +14,7 @@
 		<ChildItems>
 			<Button name="Найти" id="14">
 				<Type>CommandBarButton</Type>
-				<CommandName>1:0cf34151-92d3-42fd-954f-5938433908a4</CommandName>
+				<CommandName>0</CommandName>
 				<Title>
 					<v8:item>
 						<v8:lang>ru</v8:lang>
@@ -26,13 +26,13 @@
 			</Button>
 			<Button name="РазвернутьВсеГруппы" id="21">
 				<Type>CommandBarButton</Type>
-				<CommandName>1:12acffde-8389-4e5e-bd86-ff248262d84a</CommandName>
+				<CommandName>0</CommandName>
 				<LocationInCommandBar>InCommandBarAndInAdditionalSubmenu</LocationInCommandBar>
 				<ExtendedTooltip name="РазвернутьВсеГруппыExtendedTooltip" id="35"/>
 			</Button>
 			<Button name="ОписаниеОбновленийСвернутьВсеГруппы" id="45">
 				<Type>CommandBarButton</Type>
-				<CommandName>1:ff5c34f8-b172-4ef2-91d3-48283a66a725</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ОписаниеОбновленийСвернутьВсеГруппыРасширеннаяПодсказка" id="46"/>
 			</Button>
 			<ButtonGroup name="ОписаниеОбновленийГруппа" id="51">
@@ -46,7 +46,7 @@
 				<ChildItems>
 					<Button name="Сохранить" id="7">
 						<Type>CommandBarButton</Type>
-						<CommandName>1:d8e20c4d-3519-49aa-80e5-d6d66fee741a</CommandName>
+						<CommandName>0</CommandName>
 						<Title>
 							<v8:item>
 								<v8:lang>ru</v8:lang>
@@ -58,7 +58,7 @@
 					</Button>
 					<Button name="Печать" id="15">
 						<Type>CommandBarButton</Type>
-						<CommandName>1:d673d512-f71a-48a6-ae5d-527a64ffd813</CommandName>
+						<CommandName>0</CommandName>
 						<Picture>
 							<xr:Ref>StdPicture.Print</xr:Ref>
 							<xr:LoadTransparent>true</xr:LoadTransparent>
@@ -68,12 +68,12 @@
 					</Button>
 					<Button name="ОписаниеОбновленийПредварительныйПросмотр" id="47">
 						<Type>CommandBarButton</Type>
-						<CommandName>1:5aa38159-2001-42ae-8451-f8cabe0762c3</CommandName>
+						<CommandName>0</CommandName>
 						<ExtendedTooltip name="ОписаниеОбновленийПредварительныйПросмотрРасширеннаяПодсказка" id="48"/>
 					</Button>
 					<Button name="ОписаниеОбновленийПараметрыСтраницы" id="49">
 						<Type>CommandBarButton</Type>
-						<CommandName>1:41c1bb40-1027-4fd1-a19e-17976100e64b</CommandName>
+						<CommandName>0</CommandName>
 						<ExtendedTooltip name="ОписаниеОбновленийПараметрыСтраницыРасширеннаяПодсказка" id="50"/>
 					</Button>
 				</ChildItems>

@@ -19,7 +19,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.АнализОплатыПоЗаказамПокупателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.АнализСчетовНаОплату</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.Взаиморасчеты</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">07e4d701-126f-48b4-b45c-e804d6839f77</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РасчетыСПокупателями</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РеестрСтаренияДебиторскойЗадолженности</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.РазделРаботыВзаиморасчеты</xr:Item>

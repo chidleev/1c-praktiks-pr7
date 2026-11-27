@@ -42,7 +42,7 @@
 			</Button>
 			<Button name="ФормаПоказатьМножественноеВыделение" id="68">
 				<Type>CommandBarButton</Type>
-				<CommandName>0:9fea4ba9-7d33-47d4-a271-cb54df4a9b74</CommandName>
+				<CommandName>0</CommandName>
 				<ExtendedTooltip name="ФормаПоказатьМножественноеВыделениеРасширеннаяПодсказка" id="69"/>
 			</Button>
 			<Popup name="ФормаФильтр" id="34">

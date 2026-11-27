@@ -685,13 +685,13 @@
 						<Button name="СотрудникиПереместитьВверх" id="73">
 							<Type>CommandBarButton</Type>
 							<Visible>false</Visible>
-							<CommandName>27:37740564-9e86-44a0-bea9-3f485a5a3f91</CommandName>
+							<CommandName>0</CommandName>
 							<ExtendedTooltip name="СотрудникиПереместитьВверхРасширеннаяПодсказка" id="74"/>
 						</Button>
 						<Button name="СотрудникиПереместитьВниз" id="75">
 							<Type>CommandBarButton</Type>
 							<Visible>false</Visible>
-							<CommandName>27:fa51b106-eae6-44c7-8054-76cbb3100603</CommandName>
+							<CommandName>0</CommandName>
 							<ExtendedTooltip name="СотрудникиПереместитьВнизРасширеннаяПодсказка" id="76"/>
 						</Button>
 					</ChildItems>
@@ -774,13 +774,13 @@
 						<Button name="СотрудникиПереместитьВниз1" id="208">
 							<Type>CommandBarButton</Type>
 							<Visible>false</Visible>
-							<CommandName>27:fa51b106-eae6-44c7-8054-76cbb3100603</CommandName>
+							<CommandName>0</CommandName>
 							<ExtendedTooltip name="СотрудникиПереместитьВниз1РасширеннаяПодсказка" id="209"/>
 						</Button>
 						<Button name="СотрудникиПереместитьВверх1" id="206">
 							<Type>CommandBarButton</Type>
 							<Visible>false</Visible>
-							<CommandName>27:37740564-9e86-44a0-bea9-3f485a5a3f91</CommandName>
+							<CommandName>0</CommandName>
 							<ExtendedTooltip name="СотрудникиПереместитьВверх1РасширеннаяПодсказка" id="207"/>
 						</Button>
 					</ChildItems>

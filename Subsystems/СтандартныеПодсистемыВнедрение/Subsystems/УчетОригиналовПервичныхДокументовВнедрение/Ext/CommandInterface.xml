@@ -14,13 +14,13 @@
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="Catalog.СостоянияОригиналовПервичныхДокументов.StandardCommand.OpenList">
-			<CommandGroup>00000000-0000-0000-0000-000000000000</CommandGroup>
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
 		<Command name="Catalog.СостоянияОригиналовПервичныхДокументов.StandardCommand.OpenList">
-			<CommandGroup>00000000-0000-0000-0000-000000000000</CommandGroup>
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 	</CommandsOrder>
 </CommandInterface>

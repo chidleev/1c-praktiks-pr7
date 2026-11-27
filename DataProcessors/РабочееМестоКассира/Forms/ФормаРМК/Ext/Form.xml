@@ -33158,9 +33158,8 @@ QR-код фискального чека или
 	<CommandInterface>
 		<CommandBar>
 			<Item>
-				<Command>0:0324087f-9923-4abb-accc-0a781c0a8a04</Command>
+				<Command>0</Command>
 				<Type>Added</Type>
-				<CommandGroup>a992aab7-220c-4478-a10e-9c7b05de8a83</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>

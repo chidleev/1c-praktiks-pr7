@@ -71,28 +71,7 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="0:c4ba5a76-6f1b-41fa-84e2-59c9b6c59dad">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="0:e63e9f9d-8d86-4866-adbd-13ee293dc282">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="0:0351b1d9-612f-4af2-83eb-cc2cb6d9449d">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
 	</CommandsVisibility>
-	<CommandsPlacement>
-		<Command name="0:0351b1d9-612f-4af2-83eb-cc2cb6d9449d">
-			<CommandGroup>CommandGroup.Сервис</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
-	</CommandsPlacement>
 	<CommandsOrder>
 		<Command name="Document.ЗаявкаНаВыпускКиЗГИСМ.Command.ЗаявкиНаВыпускКиЗ">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
@@ -132,9 +111,6 @@
 		</Command>
 		<Command name="Document.УведомлениеОСписанииКиЗГИСМ.Command.УведомленияОСписанииКиЗ">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
-		</Command>
-		<Command name="0:0351b1d9-612f-4af2-83eb-cc2cb6d9449d">
-			<CommandGroup>CommandGroup.Сервис</CommandGroup>
 		</Command>
 	</CommandsOrder>
 	<GroupsOrder>

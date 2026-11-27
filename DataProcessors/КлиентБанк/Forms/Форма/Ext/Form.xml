@@ -1822,18 +1822,6 @@
 															<DataPath>ДокументыКИмпорту.ВидОперации</DataPath>
 															<EditMode>EnterOnInput</EditMode>
 															<ChooseType>false</ChooseType>
-															<ChoiceParameterLinks>
-																<xr:Link>
-																	<xr:Name>Отбор.СчетОрганизации</xr:Name>
-																	<xr:DataPath xsi:type="xs:string">1/0:9b9db5b2-7c49-40be-bc34-e78e7136620f</xr:DataPath>
-																	<xr:ValueChange>DontChange</xr:ValueChange>
-																</xr:Link>
-																<xr:Link>
-																	<xr:Name>Отбор.Организация</xr:Name>
-																	<xr:DataPath xsi:type="xs:string">1/0:8ca1009b-f68f-42dc-b1e5-2b2d6bc203e4</xr:DataPath>
-																	<xr:ValueChange>DontChange</xr:ValueChange>
-																</xr:Link>
-															</ChoiceParameterLinks>
 															<ContextMenu name="ДокументыКИмпортуВидОперацииКонтекстноеМеню" id="425"/>
 															<ExtendedTooltip name="ДокументыКИмпортуВидОперацииExtendedTooltip" id="726"/>
 															<Events>

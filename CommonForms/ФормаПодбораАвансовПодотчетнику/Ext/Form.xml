@@ -124,7 +124,6 @@
 					<EnableDrag>true</EnableDrag>
 					<FileDragMode>AsFile</FileDragMode>
 					<DataPath>ОстатокАвансов</DataPath>
-					<RowPictureDataPath>10/10000000</RowPictureDataPath>
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>

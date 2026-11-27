@@ -693,23 +693,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>ShowError</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>КодТНВЭД</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:efece150-e7ef-4c67-856e-c4ab6926d5e1</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>Организация</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:8ef64dd9-9cb5-45a4-b690-d0e9ac75a02c</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>ПервичныйДокумент</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:1948a590-7671-4462-971a-8bc70470f98e</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -831,18 +815,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>ShowError</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Организация</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:8ef64dd9-9cb5-45a4-b690-d0e9ac75a02c</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>ПервичныйДокумент</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:1948a590-7671-4462-971a-8bc70470f98e</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -881,18 +854,7 @@
 					<FillValue xsi:nil="true"/>
 					<FillChecking>ShowError</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Организация</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:8ef64dd9-9cb5-45a4-b690-d0e9ac75a02c</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-						<xr:Link>
-							<xr:Name>ПервичныйДокумент</xr:Name>
-							<xr:DataPath xsi:type="xs:string">0:1948a590-7671-4462-971a-8bc70470f98e</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
